@@ -11,10 +11,10 @@ Contents
 =============
 #### - Visualization of coco dataset for object detection
   - Image visualization
-  - Draw object box
+  - Draw object box in image
   - Write object name
   - Convert relative scale to absolute scale of object boxes
-  - Convert x/y/w/h format to x/y/x/y format of object boxes
+  - Convert center_x/center_y/box_w/box_h format to left_top_x/left_top_y/right_bottom_x/right_bottom_y format of object boxes
   
 Datasets
 =============
